@@ -1,0 +1,22 @@
+Metric,Value,Unit,Source,Description
+Polysilicon Control China,96,%,Section 5.5,Geopolitical choke point for polysilicon
+Wafer Control China,98,%,Section 5.5,Geopolitical choke point for wafers
+Solar Capacity 2026,117,GW,Section 3.7,Total solar capacity in 2026
+Sovereignty Metric 2026,0.28,Index,Section 5.6,Baseline independence in 2026
+Sovereignty Metric 2030,0.75,Index,Section 5.6,Protocol-enabled independence in 2030
+Silicon Import Dep,96,%,Table A.4,Import dependency for silicon
+Silicon Protocol Offset,45,%,Table A.4,ASP Framework reduction in silicon demand
+Learning Rate,20,%,Figure 5.1,Standard Swanson's Law learning rate
+Protocol Dividend Max,40,%,Figure 5.1,Max value clawback via MCP services
+Sovereignty Recovery Factor Base,0,Index,Section 5.5.1,Baseline recovery factor without MCP
+Sovereignty Recovery Factor 2030,0.8,Index,Section 5.5.1,Projected recovery factor with MCP
+Sovereign Command Index 2030,0.95,Index,Table A.6,Protocol era command index
+Alpha Sovereignty,1.2,Coefficient,Section 5.6,Protocol command weighting factor
+Vanishing Margin Threshold,0.05,EUR/Wp,Section 5.1,Threshold for hardware commoditization
+Xinjiang Shock Factor,0.5,Ratio,Section 5.3,Supply chain disruption impact
+ASP Sovereign Unlock,50,%,Section 5.7,Max sovereignty unlock via ASP
+ARP Framework Gain,35,%,Section 5.7,Efficiency gain from ARP
+Silicon Boomerang Dividend,30,%,Section 5.3,Value returned via digital twins
+Industrial Jobs Clawback,64000,Jobs,Table A.5,Jobs retained via MCP optimization
+Legacy Resilience,0.1,Ratio,Section 5.5.1,Baseline grid resilience to supply shocks
+MCP Resilience Gain,4.5,Multiplier,Section 5.5.1,Resilience improvement via MCP

@@ -1,0 +1,17 @@
+Material,Demand (kt),Import Dep (%),Protocol Offset (%),Status
+Copper,550,98,35,Sovereign
+Aluminum,280,85,25,Sovereign
+Silicon (PV),1200,96,45,Sovereign
+Steel (Grid),1800,45,20,Stable
+Sector,2018,2026 (Crisis),2030 (Protocol),Status
+Automotive,892000,814500,845000,Recovering
+Chemicals,342000,322000,335000,Recovering
+Metal Production,185000,154000,168000,Recovering
+Glass/Ceramics,68000,55500,62000,Stable
+Total Energy-Intensive,1487000,1346000,1410000,Sovereign
+Parameter,2010 (Legacy),2026 (Crisis),2030 (Protocol),Unit
+System Inertia,205,120,185,GVA·s
+Max. RoCoF,180,520,145,mHz/s
+Storage Deficit Ratio,327:1,327:1,2:1,Ratio
+Round-Trip Efficiency (H2),31,32,52,%,
+Sovereign Command Index,0.15,0.05,0.95,Index
