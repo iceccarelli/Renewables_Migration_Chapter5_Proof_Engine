@@ -1,4 +1,3 @@
-```markdown
 # The Renewables Migration — Sovereign Silicon Command Proof Engine
 
 **Chapter 5 Verification System: The Solar Suicide — How €250 Billion in Subsidies Bought Germany Sovereign Silicon Command**
@@ -113,4 +112,3 @@ Contributions that extend ASP/ARP frameworks, deepen dependency-shield models, o
 
 **Part of The Renewables Migration Technical Ecosystem**  
 From the €1.45 trillion receipt to sovereign silicon command — verified, executable, and ready for integration.
-```
