@@ -5,10 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
 
-This repository is the **official computational companion** to Chapter 5 of Vincenzo Grimaldi’s *The Renewables Migration* (March 21, 2026). It mathematically verifies the pivotal silicon transformation at 03:42 — the exact moment the €1.45 trillion Energiewende receipt is reconciled at the panel level. The proof engine turns €250 billion in subsidies, the learning-curve trap, imported dependency, and the subsidized competitor into sovereign silicon command through MCP-enabled digital shielding and agentic power.
-
-The 03:17 narrative thread continues here. Every preceding chapter’s infrastructure foundation — the €700 billion U-Turn, the €580 billion crowdfunded empire, and the €320 billion copper arteries — now converges on Germany’s solar fleet. Imported panels shift from subsidized vulnerability to sovereign, protocol-governed brain. This production-ready codebase delivers verifiable Learning Curve Trap simulations, Dependency Manifold, Swanson’s Law projections, Sovereignty Metric (S), 64,000 industrial jobs clawed back, ASP/ARP frameworks, and the 2030 Sovereign Brain verdict for developers and system integrators to embed MCP intelligence into live solar architectures.
-
 ---
 
 ## Quick Start — Verify Sovereign Silicon Command in < 60 Seconds
@@ -129,13 +125,6 @@ Renewables_Migration_Chapter5_Proof_Engine/
 | **Book Data Export**             | 5.4             | One-click CSV matching Appendix A |
 
 ---
-
-## Technical Integration Philosophy
-
-The codebase mirrors the same engineering standards the book demands of the grid: **modular, sovereign, and verifiable**. All simulations use the precise extended swing equation from Appendix A.9, with ΦMCP damping and the full ASP/ARP frameworks at the panel level. No external API calls — full data sovereignty by design. Ready for live MCP connectors (Anthropic/Linux Foundation standard) to replace synthetic solar data with real inverter telemetry.
-
-This is the **executable brain** that proves the book’s blueprint has already turned the solar suicide into sovereign silicon command.
-
 ---
 
 **Part of The Renewables Migration Technical Ecosystem**  
